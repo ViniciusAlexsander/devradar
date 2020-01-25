@@ -1,2 +1,2 @@
 # devradar
-Projeto 
+Projeto desenvolvido durante a semana omnistack 10
